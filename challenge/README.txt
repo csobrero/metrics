@@ -17,6 +17,6 @@ Using ArrayList with java8 streams time complexity and capacity are the followin
 OPERATION	TIME COMPLEXITY		CAPACITY COMPLEXITY
 			access 	search		
 MIN 		O(1)	O(n)		O(n)
-MAX			O(1)	O(n)		O(n)
+MAX		O(1)	O(n)		O(n)
 AVERAGE		O(1)	O(n)		O(n)
-MEDIAN		O(n log n)			O(log n)
+MEDIAN		O(n log n)		O(log n)
